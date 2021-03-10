@@ -1,0 +1,4 @@
+﻿  LabP_2.cpp
+C:\Users\Sindikat\source\repos\LabP_2\LabP_2\LabP_2.cpp(127,10): warning C4476: "printf": неизвестный символ поля типа "!" в описателе формата
+C:\Users\Sindikat\source\repos\LabP_2\LabP_2\LabP_2.cpp(159,10): warning C4476: "printf": неизвестный символ поля типа "!" в описателе формата
+  LabP_2.vcxproj -> C:\Users\Sindikat\source\repos\LabP_2\Debug\LabP_2.exe
